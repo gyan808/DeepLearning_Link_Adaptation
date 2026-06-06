@@ -1,0 +1,8 @@
+streamlit
+numpy
+matplotlib
+onnxruntime
+joblib
+scikit-learn
+torch
+pandas
