@@ -295,7 +295,7 @@ The system successfully demonstrates:
 
 # Author
 
-**Gyanendra Verma**
+**Gyanendra Verma & Sneha Priya**
 
 ---
 
